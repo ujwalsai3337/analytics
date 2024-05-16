@@ -1,0 +1,24 @@
+.conti {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Horizontally center items */
+    align-items: center; /* Vertically center items */
+    width: fit-content; 
+    margin: 20px auto 0; 
+    padding: 20px; 
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.7); /* Increase shadow on hover */
+
+    /* background: linear-gradient(to top, #b3d4f5 0%, white 100%); */
+    border-radius: 2%;
+    background-image: url("backf.jpg");
+    background-size: cover; /* Ensures the background image covers the entire element */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; 
+}
+
+
+
+
+
+
+
